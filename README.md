@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://i.imgur.com/EsFekfa.png" alt="banner"/>
-</div>
 
 <h1 align="center">Patty — Estudante de Análise e Desenvolvimento de Sistemas</h1>
 
