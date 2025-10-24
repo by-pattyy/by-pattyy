@@ -1,8 +1,9 @@
+<h1 align="center">Patricia Menezes</h1>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas</p>
 
-<h1 align="center">Patty — Estudante de Análise e Desenvolvimento de Sistemas</h1>
 
 <div align="center">
-  <strong>Python • Ciência de Dados • Engenharia de Software • Finanças</strong>
+  <strong>Python • Ciência de Dados • Arquitetura de Software • Finanças</strong>
 </div>
 
 ---
@@ -74,9 +75,9 @@ Busco experiência prática, construção de projetos e aprofundamento acadêmic
 
 ## 🎓 Formação
 
-- **Tecnólogo — Análise e Desenvolvimento de Sistemas (EAD)**  
-Instituição: *Preencher quando quiser*  
-Período: *2025–2027 (exemplo)*
+- **Tecnólogo — Análise e Desenvolvimento de Sistemas **  
+Instituição: *Unama*  
+Período: *2025–2027*
 
 ---
 
