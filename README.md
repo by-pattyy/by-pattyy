@@ -75,7 +75,7 @@ Busco experiência prática, construção de projetos e aprofundamento acadêmic
 
 ## 🎓 Formação
 
-- **Tecnólogo — Análise e Desenvolvimento de Sistemas **  
+- **Tecnólogo — Análise e Desenvolvimento de Sistemas**  
 Instituição: *Unama*  
 Período: *2025–2027*
 
