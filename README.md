@@ -45,7 +45,7 @@ Busco experiência prática, construção de projetos e aprofundamento acadêmic
 ## Projetos em Desenvolvimento
 
 - **Sistema de Cadastro Integrado à Excel**
-- **Automação de Coleta de Dados Financeiros** (Python)
+- **Automação de Relatório Simples** (Python)
 - **Dashboard Analítico Básico** (Pandas/Plot)
 
 
