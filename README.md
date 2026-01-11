@@ -38,7 +38,7 @@ Busco experiência prática em estágio ou posição junior, construção de pro
 
 ## Projetos em Desenvolvimento
 
-- **Sistema de Cadastro Integrado ao Excel**
+- **Sistema de Cadastro com exportação para o Excel**
 - **Automação de Relatório Simples** (Python)
 - **Dashboard Analítico Básico** (Pandas/Plot)
 
