@@ -40,7 +40,7 @@ Busco experiência prática em estágio ou posição junior, construção de pro
 
 - **Sistema de Cadastro com exportação para o Excel**
 - **Automação de Relatório Simples** (Python)
-- **Dashboard Analítico Básico** (Pandas/Plot)
+- **Dashboard Analítico Básico** (Ainda não publicado)
 
 
 > Projetos serão adicionados ao repositório ao longo da graduação.
