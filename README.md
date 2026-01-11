@@ -60,10 +60,12 @@ Busco experiência prática em estágio ou posição junior, construção de pro
 
 ## Estatísticas
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=by-pattyy&show_icons=true&theme=transparent"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-pattyy&layout=compact&theme=transparent"/>
-</div>
+## Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=by-pattyy&show_icons=true&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=by-pattyy&layout=compact&theme=radical"/>
+</p>
 
 ---
 
