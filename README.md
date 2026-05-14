@@ -19,7 +19,6 @@ Busco experiência prática em estágio ou posição junior, construção de pro
 - Desenvolvimento Backend
 - Banco de Dados, visualização e manipulação
 - Engenharia de Software, boas práticas, SOLID
-- Estatistica básica
 - Fundamentos de Machine Learning
 
 ---
@@ -53,7 +52,6 @@ Busco experiência prática em estágio ou posição junior, construção de pro
 - POO (Python / C#)
 - Banco de Dados SQL
 - Estatística para dados
-- Fundamentos de Economia/Finanças
 - Boas práticas de versionamento
 - 
 ---
